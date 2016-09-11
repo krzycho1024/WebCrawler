@@ -1,0 +1,2 @@
+gcc -luriparser -liconv -O3 parser9.c -o parser9
+#-O3
